@@ -1,9 +1,35 @@
-This Book
 =========
+Why Ruby ??
 
-This book is written using using the git-scribe toolchain, which can be found at:
+- You could turn your idea into a product in no time
+- You could be happy coding again without fighting against the syntax of a programming language
+- You could learn throughout your life without any debt.
 
-http://github.com/schacon/git-scribe
+=========
+Why Rails ??
 
-Instructions on how to install the tool and use it for things like editing this book,
-submitting errata and providing translations can be found at that site.
+- You love Ruby
+- You love what means by "Best Practices:
+- You love simplicity and magical ;)
+
+=========
+Why this book ??
+
+- Each chapter is a product
+- You love how to contribute back to the community
+- You love coding as a habit
+
+=========
+Anything else ??
+
+- You recognise you could program in any language, even Chinese ;) (just joking)
+- You love Computer Science and the C programming language, Ruby loves C.
+- You live not for a living, but for a attitude.
+
+=========
+Deadlines ??
+
+- I don't know
+- Just contribute what do you think it's your idea and you believe it could be real, useful and it's GOOD for YOU :)
+
+THANK YOU.
